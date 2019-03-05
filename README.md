@@ -1,8 +1,8 @@
-## clapping lights
+# clapping lights
 
 Code for an arduino micro with three lights and a potentiometer to indicate when to clapp for the song ["Clapping Music" by Steve Reich](https://en.wikipedia.org/wiki/Clapping_Music).
 
-# How it works
+## How it works
 The green light indicates the tempo.
 The potentionmeter regulates how fast the tempo is.
 The red light is clapper 1.
