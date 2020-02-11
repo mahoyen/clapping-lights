@@ -5,6 +5,6 @@ Code for an arduino micro with three lights and a potentiometer to indicate when
 ## How it works
 - The green light indicates the tempo.
 - The potentiometer regulates how fast the tempo is.
-- The red and blue lights indicate wether to clap or not at the next green blink.
+- The red and blue lights indicate weather to clap or not at the next green blink.
   - The red light is clapper 1.
   - The blue light is clapper 2.
